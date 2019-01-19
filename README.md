@@ -1,5 +1,6 @@
 - [порядковая статистика](http://neerc.ifmo.ru/wiki/index.php?title=Поиск_k-ой_порядковой_статистики)
 - [quickSort](http://neerc.ifmo.ru/wiki/index.php?title=Быстрая_сортировка)
+- [mergeSort](http://neerc.ifmo.ru/wiki/index.php?title=Сортировка_слиянием)
 - [priority queue](http://neerc.ifmo.ru/wiki/index.php?title=Приоритетные_очереди)
 - [heap](http://neerc.ifmo.ru/wiki/index.php?title=Двоичная_куча)
 - [ConvexHull](http://neerc.ifmo.ru/wiki/index.php?title=Статические_выпуклые_оболочки:_Джарвис,_Грэхем,_Эндрю,_Чен,_QuickHull)
@@ -16,6 +17,8 @@
 - [Декартовы деревья](http://neerc.ifmo.ru/wiki/index.php?title=Декартово_дерево)
 - [Деревья Фенвика](http://neerc.ifmo.ru/wiki/index.php?title=Дерево_Фенвика)
 - [Деревья отрезков](http://neerc.ifmo.ru/wiki/index.php?title=Дерево_отрезков._Построение)
+- [амортизационный анализ](http://neerc.ifmo.ru/wiki/index.php?title=Амортизационный_анализ)
+
 
 
 # docs
